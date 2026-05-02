@@ -123,8 +123,8 @@ If you find this project or our code helpful for your research, please consider 
 ```bibtex
 @article{dominomatch,
   title={DoMiNoMatch: A Unified Framework for Multi-Target Semi-Supervised Domain Adaptation},
-  author={Anonymous},
-  journal={Under Review},
+  author={Minh Bao Kha, Tuan Nam Do, Ngoc Minh Nguyen, Tuan Linh Dang},
+  journal={Submitted to The Visual Computer},
   year={2026}
 }
 ```
